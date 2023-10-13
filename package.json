@@ -1,0 +1,24 @@
+{
+  "name": "graphql-typedefs-compiler",
+  "version": "1.0.0",
+  "description": "GraphQL Typedefs Compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eschase4/GraphQL-Typedefs-Compiler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eschase4/GraphQL-Typedefs-Compiler/issues"
+  },
+  "homepage": "https://github.com/eschase4/GraphQL-Typedefs-Compiler#readme",
+  "dependencies": {
+    "@babel/core": "^7.23.2",
+    "@babel/parser": "^7.23.0"
+  }
+}
